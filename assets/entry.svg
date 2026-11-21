@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title description">
+<title id="title">World News — Friday 20 November 2026</title>
+<desc id="description">Five news panels: Kyiv bridges, the COP31 draft, Myanmar and the ICJ, the US Senate Iran vote, and world markets. Bridge art is symbolic. The market area connects only the previous close and Friday close; it is not an intraday price series.</desc>
+<defs><linearGradient id="market-area" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#DC2626" stop-opacity="0.08"/><stop offset="1" stop-color="#DC2626" stop-opacity="0.38"/></linearGradient></defs>
+<rect x="0" y="0" width="1024" height="1024" rx="0" fill="#F1F5F9" stroke="none" stroke-width="1"/>
+<rect x="0" y="0" width="1024" height="143" rx="0" fill="#0F172A" stroke="none" stroke-width="1"/>
+<text x="36" y="43" font-family="DejaVu Sans" font-size="25" font-weight="700" text-anchor="start" fill="#FFFFFF">WORLD NEWS</text>
+<rect x="683" y="19" width="305" height="32" rx="5" fill="#1E293B" stroke="#64748B" stroke-width="1"/>
+<text x="835.5" y="41" font-family="DejaVu Sans" font-size="17" font-weight="700" text-anchor="middle" fill="#FFFFFF">DAILY GLOBAL BRIEFING</text>
+<text x="33" y="116" font-family="Liberation Sans Narrow" font-size="81" font-weight="700" text-anchor="start" fill="#FFFFFF">FRIDAY 20 NOVEMBER 2026</text>
+<rect x="36" y="137" width="952" height="6" rx="0" fill="#DC2626" stroke="none" stroke-width="1"/>
+<rect x="36" y="160" width="572" height="382" rx="10" fill="#111827" stroke="#CBD5E1" stroke-width="1.5"/>
+<clipPath id="clip-ukraine"><rect x="36" y="160" width="572" height="382" rx="10"/></clipPath>
+<g clip-path="url(#clip-ukraine)">
+<rect x="36" y="160" width="572" height="6" rx="0" fill="#DC2626" stroke="none" stroke-width="1"/>
+</g>
+<text x="59" y="202" font-family="DejaVu Sans" font-size="24" font-weight="700" text-anchor="start" fill="#F59E0B">UKRAINE / EUROPE</text>
+<text x="57" y="266.0" font-family="DejaVu Sans" font-size="47" font-weight="700" text-anchor="start" fill="#FFFFFF">Russian missiles hit</text>
+<text x="57" y="320.05" font-family="DejaVu Sans" font-size="47" font-weight="700" text-anchor="start" fill="#FFFFFF">Kyiv bridges</text>
+<text x="60" y="358" font-family="DejaVu Sans" font-size="24" font-weight="400" text-anchor="start" fill="#E2E8F0">Rail and power infrastructure also hit</text>
+<g aria-label="Symbolic bridge and Kyiv skyline">
+<circle cx="356" cy="405" r="22" fill="#334155" stroke="none" stroke-width="1"/>
+<path d="M62 449V428H83V410H101V434H121V418H142V438H157V397H173V384H179V397H195V429H218V413H236V437H255V421H277V441H297V403H312V392H320V403H334V432H356V421H381V440H416V461H62Z" fill="#334155" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M62 463V447H81V435H103V450H130V440H153V456H172V433H190V449H216V443H243V459H269V437H288V453H311V443H337V453H361V434H382V448H416V465Z" fill="#475569" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M60 482Q92 472 124 482T188 482T252 482T316 482T380 482T418 482M60 502Q92 492 124 502T188 502T252 502T316 502T380 502T418 502M60 522Q92 512 124 522T188 522T252 522T316 522T380 522T418 522" fill="none" stroke="#334155" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M66 469H414" fill="none" stroke="#92400E" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M64 460H416M69 468H411M114 396V493M357 396V493" fill="none" stroke="#F59E0B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M67 447L114 404Q236 505 357 404L411 447" fill="none" stroke="#FBBF24" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M153 432V460" fill="none" stroke="#F59E0B" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M193 450V460" fill="none" stroke="#F59E0B" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M275 450V460" fill="none" stroke="#F59E0B" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M316 432V460" fill="none" stroke="#F59E0B" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M114 397V389M357 397V389" fill="none" stroke="#FCD34D" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M78 486H104M167 508H202M303 488H333M354 517H397" fill="none" stroke="#64748B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<text x="584" y="465" font-family="DejaVu Sans" font-size="96" font-weight="700" text-anchor="end" fill="#F59E0B">3</text>
+<text x="584" y="492.0" font-family="DejaVu Sans" font-size="22" font-weight="700" text-anchor="end" fill="#F59E0B">BRIDGES</text>
+<text x="584" y="518.4" font-family="DejaVu Sans" font-size="22" font-weight="700" text-anchor="end" fill="#F59E0B">DAMAGED</text>
+<rect x="624" y="160" width="364" height="382" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5"/>
+<clipPath id="clip-climate"><rect x="624" y="160" width="364" height="382" rx="10"/></clipPath>
+<g clip-path="url(#clip-climate)">
+<rect x="624" y="160" width="364" height="6" rx="0" fill="#047857" stroke="none" stroke-width="1"/>
+</g>
+<text x="648" y="202" font-family="DejaVu Sans" font-size="22" font-weight="700" text-anchor="start" fill="#047857">ANTALYA / CLIMATE</text>
+<text x="648" y="261" font-family="DejaVu Sans" font-size="40" font-weight="700" text-anchor="start" fill="#0F172A">COP31 draft</text>
+<text x="648" y="306" font-family="DejaVu Sans" font-size="33" font-weight="700" text-anchor="start" fill="#0F172A">omits fossil fuels</text>
+<text x="648" y="352" font-family="DejaVu Sans" font-size="23" font-weight="400" text-anchor="start" fill="#475569">Talks go into overtime</text>
+<g aria-label="Fossil fuel mentions omitted from the draft">
+<circle cx="706" cy="456" r="56" fill="#F1F5F9" stroke="none" stroke-width="1"/>
+<circle cx="706" cy="456" r="55" fill="none" stroke="#047857" stroke-width="3"/>
+<rect x="673" y="416" width="57" height="72" rx="5" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+<path d="M684 430H719" fill="none" stroke="#CBD5E1" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M684 441H719" fill="none" stroke="#CBD5E1" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M684 452H719" fill="none" stroke="#CBD5E1" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+<rect x="690" y="438" width="42" height="58" rx="7" fill="#0F172A" stroke="none" stroke-width="1"/>
+<path d="M691 452H731M691 482H731" fill="none" stroke="#64748B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M709 456C709 456 700 468 700 472A10 10 0 0 0 720 472C720 468 709 456 709 456Z" fill="#F59E0B" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M665 498L747 414" fill="none" stroke="#FFFFFF" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M665 498L747 414" fill="none" stroke="#DC2626" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<text x="966" y="465" font-family="DejaVu Sans" font-size="96" font-weight="700" text-anchor="end" fill="#047857">0</text>
+<text x="965" y="492.0" font-family="DejaVu Sans" font-size="22" font-weight="700" text-anchor="end" fill="#047857">FOSSIL FUEL</text>
+<text x="965" y="518.4" font-family="DejaVu Sans" font-size="22" font-weight="700" text-anchor="end" fill="#047857">MENTIONS</text>
+<rect x="36" y="560" width="308" height="391" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5"/>
+<clipPath id="clip-myanmar"><rect x="36" y="560" width="308" height="391" rx="10"/></clipPath>
+<g clip-path="url(#clip-myanmar)">
+<rect x="36" y="560" width="308" height="6" rx="0" fill="#475569" stroke="none" stroke-width="1"/>
+</g>
+<path d="M54 743H326" fill="none" stroke="#CBD5E1" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+<rect x="358" y="560" width="308" height="391" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5"/>
+<clipPath id="clip-iran"><rect x="358" y="560" width="308" height="391" rx="10"/></clipPath>
+<g clip-path="url(#clip-iran)">
+<rect x="358" y="560" width="308" height="6" rx="0" fill="#2563EB" stroke="none" stroke-width="1"/>
+</g>
+<path d="M376 743H648" fill="none" stroke="#CBD5E1" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+<rect x="680" y="560" width="308" height="391" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5"/>
+<clipPath id="clip-markets"><rect x="680" y="560" width="308" height="391" rx="10"/></clipPath>
+<g clip-path="url(#clip-markets)">
+<rect x="680" y="560" width="308" height="6" rx="0" fill="#F59E0B" stroke="none" stroke-width="1"/>
+</g>
+<path d="M698 743H970" fill="none" stroke="#CBD5E1" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+<text x="54" y="597" font-family="DejaVu Sans" font-size="21" font-weight="700" text-anchor="start" fill="#475569">MYANMAR / JUSTICE</text>
+<g aria-label="ICJ chamber: nine votes to six">
+<path d="M55 699A65 65 0 0 1 185 699" fill="none" stroke="#E2E8F0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<rect x="58.0" y="692.0" width="10" height="10" rx="3" fill="#475569" stroke="none" stroke-width="1"/>
+<rect x="62.339" y="670.187" width="10" height="10" rx="3" fill="#475569" stroke="none" stroke-width="1"/>
+<rect x="74.695" y="651.695" width="10" height="10" rx="3" fill="#475569" stroke="none" stroke-width="1"/>
+<rect x="93.187" y="639.339" width="10" height="10" rx="3" fill="#475569" stroke="none" stroke-width="1"/>
+<rect x="115.0" y="635.0" width="10" height="10" rx="3" fill="#475569" stroke="none" stroke-width="1"/>
+<rect x="136.813" y="639.339" width="10" height="10" rx="3" fill="#475569" stroke="none" stroke-width="1"/>
+<rect x="155.305" y="651.695" width="10" height="10" rx="3" fill="#475569" stroke="none" stroke-width="1"/>
+<rect x="167.661" y="670.187" width="10" height="10" rx="3" fill="#475569" stroke="none" stroke-width="1"/>
+<rect x="172.0" y="692.0" width="10" height="10" rx="3" fill="#475569" stroke="none" stroke-width="1"/>
+<rect x="80.0" y="692.0" width="10" height="10" rx="3" fill="#CBD5E1" stroke="none" stroke-width="1"/>
+<rect x="86.684" y="671.428" width="10" height="10" rx="3" fill="#CBD5E1" stroke="none" stroke-width="1"/>
+<rect x="104.184" y="658.713" width="10" height="10" rx="3" fill="#CBD5E1" stroke="none" stroke-width="1"/>
+<rect x="125.816" y="658.713" width="10" height="10" rx="3" fill="#CBD5E1" stroke="none" stroke-width="1"/>
+<rect x="143.316" y="671.428" width="10" height="10" rx="3" fill="#CBD5E1" stroke="none" stroke-width="1"/>
+<rect x="150.0" y="692.0" width="10" height="10" rx="3" fill="#CBD5E1" stroke="none" stroke-width="1"/>
+<path d="M90 704H150L155 711H85Z" fill="#0F172A" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<text x="326" y="676" font-family="DejaVu Sans" font-size="60" font-weight="700" text-anchor="end" fill="#475569">9–6</text>
+<text x="326" y="732" font-family="DejaVu Sans" font-size="18" font-weight="700" text-anchor="end" fill="#475569">ICJ VOTE · 19 NOV</text>
+<text x="54" y="785.0" font-family="Liberation Sans Narrow" font-size="35" font-weight="700" text-anchor="start" fill="#0F172A">Myanmar rejects</text>
+<text x="54" y="821.05" font-family="Liberation Sans Narrow" font-size="35" font-weight="700" text-anchor="start" fill="#0F172A">Rohingya genocide</text>
+<text x="54" y="857.1" font-family="Liberation Sans Narrow" font-size="35" font-weight="700" text-anchor="start" fill="#0F172A">ruling</text>
+<text x="54" y="881.0" font-family="DejaVu Sans" font-size="22" font-weight="400" text-anchor="start" fill="#475569">The Gambia brought</text>
+<text x="54" y="906.96" font-family="DejaVu Sans" font-size="22" font-weight="400" text-anchor="start" fill="#475569">the case. Myanmar</text>
+<text x="54" y="932.92" font-family="DejaVu Sans" font-size="22" font-weight="400" text-anchor="start" fill="#475569">responded Friday.</text>
+<text x="376" y="597" font-family="DejaVu Sans" font-size="21" font-weight="700" text-anchor="start" fill="#2563EB">US / IRAN</text>
+<g aria-label="Senate vote: 51 against and 48 for">
+<path d="M378 662H435M382 655H431M387 649V633H426V649M384 630H429M390 626C391 604 422 604 424 626Z" fill="#EFF6FF" stroke="#2563EB" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M406 609V601H418L414 605H406M396 636V649M406 636V649M416 636V649" fill="none" stroke="#2563EB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<rect x="376" y="689" width="272" height="18" rx="4" fill="#CBD5E1" stroke="none" stroke-width="1"/>
+<clipPath id="vote-clip"><rect x="376" y="689" width="272" height="18" rx="4"/></clipPath>
+<g clip-path="url(#vote-clip)">
+<rect x="376" y="689" width="140.12121212" height="18" rx="0" fill="#2563EB" stroke="none" stroke-width="1"/>
+<path d="M516.12121212 689V707" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+</g></g>
+<text x="648" y="670" font-family="DejaVu Sans" font-size="58" font-weight="700" text-anchor="end" fill="#2563EB">51–48</text>
+<text x="648" y="732" font-family="DejaVu Sans" font-size="18" font-weight="700" text-anchor="end" fill="#2563EB">AGAINST / FOR</text>
+<text x="376" y="785.0" font-family="Liberation Sans Narrow" font-size="35" font-weight="700" text-anchor="start" fill="#0F172A">Senate rejects</text>
+<text x="376" y="821.05" font-family="Liberation Sans Narrow" font-size="35" font-weight="700" text-anchor="start" fill="#0F172A">Iran war powers</text>
+<text x="376" y="857.1" font-family="Liberation Sans Narrow" font-size="35" font-weight="700" text-anchor="start" fill="#0F172A">resolution</text>
+<text x="376" y="881.0" font-family="DejaVu Sans" font-size="22" font-weight="400" text-anchor="start" fill="#475569">19 Nov vote on</text>
+<text x="376" y="906.96" font-family="DejaVu Sans" font-size="22" font-weight="400" text-anchor="start" fill="#475569">ending US action</text>
+<text x="376" y="932.92" font-family="DejaVu Sans" font-size="22" font-weight="400" text-anchor="start" fill="#475569">against Iran.</text>
+<text x="698" y="597" font-family="DejaVu Sans" font-size="21" font-weight="700" text-anchor="start" fill="#92400E">GLOBAL / MARKETS</text>
+<text x="970" y="655" font-family="DejaVu Sans" font-size="58" font-weight="700" text-anchor="end" fill="#DC2626">−3.7%</text>
+<text x="970" y="679" font-family="DejaVu Sans" font-size="18" font-weight="700" text-anchor="end" fill="#DC2626">S&amp;P 500 CLOSE</text>
+<g aria-label="S and P 500 close-to-close change, down 3.7 percent">
+<path d="M704 687H967" fill="none" stroke="#CBD5E1" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 5"/>
+<path d="M704 687L967 727V687Z" fill="url(#market-area)" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M704 687L967 727" fill="none" stroke="#DC2626" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="704" cy="687" r="3" fill="#DC2626" stroke="none" stroke-width="1"/>
+<circle cx="967" cy="727" r="4" fill="#DC2626" stroke="none" stroke-width="1"/>
+</g>
+<text x="698" y="785.0" font-family="Liberation Sans Narrow" font-size="35" font-weight="700" text-anchor="start" fill="#0F172A">AI sell-off hits</text>
+<text x="698" y="821.05" font-family="Liberation Sans Narrow" font-size="35" font-weight="700" text-anchor="start" fill="#0F172A">world markets</text>
+<text x="698" y="881.0" font-family="DejaVu Sans" font-size="22" font-weight="400" text-anchor="start" fill="#475569">Shares fell across</text>
+<text x="698" y="906.96" font-family="DejaVu Sans" font-size="22" font-weight="400" text-anchor="start" fill="#475569">Asia, Europe and</text>
+<text x="698" y="932.92" font-family="DejaVu Sans" font-size="22" font-weight="400" text-anchor="start" fill="#475569">the US on Friday.</text>
+<path d="M36 972H988" fill="none" stroke="#CBD5E1" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+<text x="36" y="1000" font-family="DejaVu Sans" font-size="20" font-weight="400" text-anchor="start" fill="#475569">Reporting from AP, Al Jazeera, BBC and Reuters</text>
+</svg>

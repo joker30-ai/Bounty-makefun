@@ -14,7 +14,20 @@ Five illustrated panels summarize the attacks on Kyiv crossings, the COP31 draft
 node main.ts
 ```
 
-Node 22 copies the PNG to `/output/entry.png` using built-in file operations. The output directory must be writable.
+Node 22 validates the PNG header, dimensions, and size, then writes its exact bytes to `/output/entry.png` with mode `0644`. The output directory must be writable. The entry uses built-in modules only, with no network, clock, or randomness.
+
+## Rebuild and verify the artwork
+
+The editable source is [assets/entry.svg](assets/entry.svg), authored directly by [tools/render_entry.py](tools/render_entry.py). Its five-panel layout preserves the approved story wording and numbers. It uses a navy masthead, white bordered supporting cards, distinct category accents, and a dark slate Kyiv lead with gold highlights.
+
+```sh
+python3 tools/render_entry.py
+python3 tools/verify_entry.py --node node
+```
+
+Building uses Python's standard library, the system librsvg/Cairo/Pango libraries, and the DejaVu Sans and Liberation Sans Narrow fonts. All rendering is offline. The renderer measures actual font ink to reject text overflow or overlap and saves local 512px and 300px review images under the ignored `.private/phase7/` directory. The verifier checks PNG chunk checksums and decoded scanlines, then runs `main.ts` twice with Node 22 through the actual `/output/entry.png` path and compares SHA-256 hashes.
+
+The illustrations are original SVG shapes. The bridge and skyline are symbolic. The chamber contains exactly nine dark seats and six light seats; the Senate bar lengths are proportional to 51 against and 48 for. The red market area connects only the previous close and the verified Friday close, down 3.7%; it does not invent an intraday price series. The fossil-fuel slash refers to omitted mentions in the **draft**, as labeled.
 
 ## Reporting
 
